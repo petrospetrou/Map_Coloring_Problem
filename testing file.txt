@@ -1,0 +1,19 @@
+10
+Germania Ollandia Belgio Louxembourgo Gallia Elvetia Austria Tsexia Italia Ispania 
+Germania Ollandia
+Germania Belgio
+Germania Louxembourgo
+Germania Gallia
+Germania Elvetia 
+Germania Austria
+Germania Tsexia
+Ollandia Belgio  
+Belgio Gallia
+Belgio Louxembourgo
+Gallia Elvetia 
+Gallia Italia 
+Ispania Gallia 
+Elvetia Italia 
+Elvetia Austria 
+Austria Tsexia 
+Austria Italia 
